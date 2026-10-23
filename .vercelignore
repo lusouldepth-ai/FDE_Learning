@@ -1,0 +1,11 @@
+# Vercel 静态部署只需要 index.html、evidence.html、src/ 和 data/ 下的运行时题库
+research/
+tests/
+scripts/
+design/
+data/batches/
+data/core500-export.json
+server.py
+*.command
+*.md
+package.json
